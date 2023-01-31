@@ -1,0 +1,22 @@
+{
+  "name": "module-hello-world",
+  "version": "1.0.0",
+  "description": "Just another POC",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonmatum/node-module-hello-world.git"
+  },
+  "keywords": [
+    "hello-world"
+  ],
+  "author": "Jonatan Mata",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jonmatum/node-module-hello-world/issues"
+  },
+  "homepage": "https://github.com/jonmatum/node-module-hello-world#readme"
+}
